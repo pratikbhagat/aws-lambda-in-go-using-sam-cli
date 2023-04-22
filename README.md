@@ -1,6 +1,6 @@
-# sam-test
+# AWS-LAMBDA-IN-GO-USING-SAM-CLI
 
-This is a sample template for sam-test - Below is a brief explanation of what we have generated for you:
+This is a sample template for sam application - Below is a brief explanation of what we have generated for you:
 
 ```bash
 .
